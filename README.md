@@ -45,4 +45,4 @@
 - `npm run build` will stage the app to production
 - once the build completes, you will see a map of the file structure in your terminal, you can now `ctrl + c` to get out of this run
 - now `add, commit and push` your changes
-- you will have a `dist` folder that tracks the deploy
+- you will now have a couple of funky index files that bundle your code and tracks the deploy! 
