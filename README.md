@@ -27,13 +27,13 @@
     }
   ```
 
-  - Edit your `main` entry point in your `package.json` to be `index.html`
+- **IMPORTANT** Edit your `main` entry point in your `package.json` to be `index.html`
 
 - Create a [gitignore file at gitignore.io](https://www.toptal.com/developers/gitignore)
 
   - add Node and VisualStudioCode to this gitignore and bring into the project
 
-- IMPORTANT: After all of these updates be sure to do an `npm install` to get the latest changes into your project environment
+- **IMPORTANT** After all of these updates be sure to do an `npm install` to get the latest changes into your project environment
 
 ## Interacting with this application while you are in a local environment
 
